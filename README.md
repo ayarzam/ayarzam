@@ -1,6 +1,5 @@
 ### Hi there, I'm Ayarza 👋🏾
 
-<img src="/wireframe.png" align="right">
 A new Software Engineer enjoying my experience learning and working with new technologies!
 
 - 👩🏽‍💻 I’m currently working on finishing up my personal website, exploring new APIs and builiding new ways to job hunt.
