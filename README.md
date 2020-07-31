@@ -6,6 +6,7 @@ A new Software Engineer enjoying my experience learning and working with new tec
 - 💬 Ask me about hiring me to collaborate with your dev team.
 - 📱 You can reach me on [LinkedIn](https://www.linkedin.com/in/ayarza-manwaring/) or via my [Personal Website](https://www.ayarzamanwaring.com/).
 - 😄 Pronouns: She/Her
+<img src="/wireframe.png" align="right">
 
 
 
